@@ -1,5 +1,0 @@
-#include <iostream>
-int main() {
-	std::cout << "This is part 1 of the Git Assignment!" << std::endl;
-	return 0;
-}
